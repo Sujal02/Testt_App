@@ -1,5 +1,5 @@
-a = 10
-b = 20
+a = int(input())
+b = int(input())
 
 sum = a + b
 print(sum)  # Output: 30
