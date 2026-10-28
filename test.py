@@ -1,5 +1,5 @@
 a = 10
-b = 20
+b = 30
 
 sum = a + b
-print(sum)  # Output: 30
+print(sum)  # Output: 40
